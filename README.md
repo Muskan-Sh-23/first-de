@@ -1,4 +1,4 @@
 # first-de
 My first git repository.
 <br>
-Author - Muskan Sharma
+Author - Muskan Sharma (Me)
